@@ -1,0 +1,3 @@
+python2 $HOME/Predator-Theme/Theme/banners/anonymous.py
+alias su='proot -0 -w ~ $PREFIX/bin/bash'
+alias anon='history -c && history -w'

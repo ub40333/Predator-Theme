@@ -1,0 +1,35 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                                                                                                   
+-           `````````                                                                               
+-       `.---:::::::---.`                                                                           
+-    `.-::::::::::::::::--`                                                                         
+-   .-:::::::::::::::::::::-`                                                                       
+- `-::::::::::::::::::::::::-`                                                                      
+- -::::::::::::::::::::::--.`                                                                       
+-.:::::::::::::::::::--.`                                                                           
+--:::::::::::::::--.`                          `.----..`          ``.....`            ``..```       
+-:::::::::::::::-.`                          .-:::::::::-`      `-::::::::-.       `.-:::::::-`     
+--:::::::::::::::::-.``                     .:::---::::---`    .:::---::::---     `::::-:::::--.    
+-`:::::::::::::::::::::-.``                 :::- .s:::``o/-   `:::- -o::-`.o:.    :::-`-+::-`-+:`   
+- .::::::::::::::::::::::::-.`             `::::..::::-`:::   `::::..::::..::-    ::::`./:::`./:.   
+-  .-:::::::::::::::::::::::-`             `:::::::::::::::   `::::::::::::::-    ::::::::::::::.   
+:   `-::::::::::::::::::::-.               `:::::::::::::::   `::::::::::::::-    ::::::::::::::.   
+:     `.-::::::::::::::--`                 `:::::::::::::::   `::::::::::::::-    ::::::::::::::.   
+:        `..--------..`                     -.  .-` `-.` .-    -. `--` .-. `-.    -.``--` .-. `-`   
+:  `-:////////////////////////////////////////////////////////////////////////////////+++++++++++/-`
+:  +hsooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooh/
+: `yy//s+ooooooss+////ossso/////+ooyyysoo++///////////+syys+/////+oyyy///+oysy+//+syys+s+ooosso+//ho
+: `yy//soNNNNNNNNds+/ooydhds//+oosdNMMMMNdho//////////+/sdhds+/+ooyydh//o+odhdh+/+/dmdhy+dMMMmdh//ho
+: `yy//soMMMMNdNNNdmsohMMmhds/o+dMMMMNdhhddd+s/++++yo/+/sMNdhdyoymMddh/o/sNMMydh++/dMNdhhdMMMmdd//ho
+: `yy//soMMMMdyhsdddhhMmmNNhdh/sMMMMNdddhyo//soymmmdyy++yMMMNddmMMMddho/yNNmmMdhds/dMMMmdmMMMmdd//ho
+: `yy//s+NMMhddddddhdMMmdymMddysNMMMMhhysoso//osdddhdd++yMMMMMMMMMNhdh/yMMmhoyMmdd+dMMMMMMMMNmdd//ho
+: `yy//s+NNNhdmhyosmMMMMNNNmyhdhymMMMMNdshhdy/////////++yMMMMMMNmmh/ddhMMMMmdNNdhhdmMMMMMMNNdhdd//ho
+: `yy//oydhhhddyoydmmmmmmmdhhdddmhyNNmdddmdy+//////////oydmmmmmhyyyymdNmmmmmmmhhhddmNmmmmmddddmd+/hs
+:  sh+///oooooo+/+sssssssssooossso/+ossss++/////////////++oooooooooooooooooooooooooooooooooooooo+oh+
+:  .+ssssssssssssssssssssssssssssssssssssssssssssssosssoooooooooooooooooooooooooooooooooooooooooo+:`
+EOC

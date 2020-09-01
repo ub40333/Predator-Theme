@@ -1,0 +1,35 @@
+##
+## Do we need to explain this?
+##
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts 
+		
+                      ```            ````                
+                    ``                   ``              
+                  ``      S O C I A L      ``            
+                 -h-`                        -           
+                 dMMy     `::`     ```      :N-          
+                `MMMm`.:+shMNy+-./ohNd+:.` /NM/          
+                .MMMmdNMMMMMMMh/-yMMMMMMNdsyMM+          
+                `NMM+yMMMMMMMm/+o:dMMMMMMMNoNM+          
+                 yMm`-dNMNNmNNMMMMdhmNMMMm/`dM+          
+                 +MN-``:++/oNMMMMMMh/+oo/-``hM/          
+                 `dMm/::hmNMMNMMMMMMNmho-../hm`          
+                ` /MMMMNmMMMmdmmmmmNMMNNNmmMM: `         
+           `-+ydmo.dMMMMMMmhy/---:ohdNMMMMMMm:hmhs/-     
+       ./shmNMMMMMd+dMMMMMms-.-.-..:hmMMMMMddNMMMMMNdy+: 
+       :hNMMMMMMMMMNNMMNMMNo-.-----/dNMNNMMNMMMMMMMMMMNs 
+        -sMMMMMmyys+dMMNmMNNhyo+oydNmhNmNNMsoyyyNMMMMN+` 
+         :dNs::o.`:dNMMNNmNmhhyyhyyydmNNMMMNy.`:o:/hMo-  
+          +do-.ym+NMMMMd.`:mNmmddmNNs.`/MMMMMhsN/`/hh.   
+           -ddmMMNNMMMMM/ :hMMMMMMMNs. hMMMMMdMMNdds     
+            ..yMMMMMMMMd+ -mMMMdNMMMs``yNMMMMMMMM-.      
+              .mMMMdy/.    :yso-/oyy`   `-ohNMMMs`       
+              `+y+.           ```           `-sy:        
+                            ERROR 404             
+                                     | |    \   | |  
+             -_)   _| _| _ \   _|   __ _| (  | __ _| 
+            \___| _| _| \___/ _|       _|   \__/   _|  
+                                           
+EOC

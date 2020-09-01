@@ -1,0 +1,4 @@
+
+# corsor and it's color
+#echo -e '\e[3 q'
+echo -ne "\033]12;#00ff00\007"

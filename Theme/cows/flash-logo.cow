@@ -1,0 +1,53 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                                                                                          
+                                         `.-://///////:-.                                     
+                                  -/oydmMMMMMMMMMMMMMMMMMMNdys/-`.-                           
+                             ./sdMMMMMMMMMMNmmdddddddmNMMMMMMMMd+/y+-                         
+                         `:smMMMMMMNdyo/-.              `-:+shos+hMMMNh+`                     
+                       /yNMMMMMds/.                        `-omd:ohNMMMMMd+`                  
+                    .sNMMMMNy/`                           -+dMN/.   -omMMMMMh:                
+                  :hMMMMNy:                             ./yMMMo:       -omMMMMm+              
+                -dMMMMd+`                             `:sNMMMd:`          ohMMMMm+            
+              .yMMMMd:                              `-omMMMMN/-             .yMMMMm:          
+             +NMMMm/                              `-+dMMMMMMs:`               -hMMMMy`        
+           `hMMMMo`                              ./hMMMMMMMd:-                  +MMMMm-       
+          .mMMMm-                              .:yMMMMMMMMN/:                    :NMMMM/      
+         -NMMMh`                             `:sNMMMMMMMMMs:.                      yMMMM+     
+        -NMMMy                             `-omMMMMMMMMMMd::                        +MMMM+    
+       `mMMMh                            `-+dMMMMMMMMMMMN/:.                         +MMMM:   
+       hMMMm`                           ./hMMMMMMMMMMMMMs:-                           sMMMN.  
+      /MMMM-                          .:sNMMMMMMMMMMMMMd::`                           `mMMMy  
+     `mMMMs                         `-oNMMMMMMMMMMMMMMN/:-                             :MMMM- 
+     /MMMM.                       `-+dMMMMMMMMMMMMMMMMs::`                              dMMMy 
+     yMMMh                       ./hMMMMMMMMMMMMMMMMMd::.                               +MMMN 
+     dMMMo                     .:yMMMMMMMMMMMMMMMMMMNo::                                -MMMM-
+     MMMM/                   `:/hddddddddddddNMMMMMMy::.                                 MMMM:
+    `MMMM:                  `--------------:/NMMMMMm:::...............                   MMMM/
+     MMMM:                                 :hMMMMMMdhhhhhhhhhhhhy/::-`                   MMMM/
+     NMMM/                                .+MMMMMMMMMMMMMMMMMMNy/:-`                    .MMMM-
+     yMMMh                               `:mMMMMMMMMMMMMMMMMMh/::.                      /MMMM 
+     /MMMM`                              -sMMMMMMMMMMMMMMMMd+::.                        hMMMh 
+     `NMMMo                             `/NMMMMMMMMMMMMMMNo::-                         -MMMM: 
+      +MMMN.                            -hMMMMMMMMMMMMMNy/:-`                          hMMMd  
+      `mMMMh                           .+MMMMMMMMMMMMMh/::`                           +MMMM-  
+       -NMMMs                          :dMMMMMMMMMMMd+::.                            :MMMM+   
+        :MMMMo                        .oMMMMMMMMMMNo::.                             -NMMMy    
+         /MMMMs                       /NMMMMMMMMNy/:-`                             :NMMMy     
+          :NMMMh`                    -yMMMMMMMMh/:-`                              oMMMMs      
+           -mMMMN:                  `+MMMMMMMm+::.                              .dMMMM+       
+            `yMMMMh.                -dMMMMMNs::.                              `oMMMMd-        
+              :mMMMMs.             `oMMMMMy/:-                              `+NMMMNo          
+                +NMMMMy-           :mMMMh/:-`                             +hNMMMMy.           
+                 `oNMMMMd+`       .yMMm+::`                           -//hMMMMMy.             
+                    /dMMMMMh+.    /NNs::.                           `:yMMMMMmo`               
+                     .omMMMMMms/-hy/:.                         `:odMMMMMNy:                  
+                         -odMMMMN///s+:.                  `-/ohmMMMMMMms:`                    
+                            `/sds/oNMMMMMNmhyyyhhyssyyhdmMMMMMMMMMmy+.                        
+                               `:./sdMMMMMMMMMMMMMMMMMMMMMMMmhs+:`                            
+                               `      ---:/+osssssssso+///-              
+EOC

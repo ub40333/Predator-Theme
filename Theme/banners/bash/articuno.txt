@@ -1,0 +1,3 @@
+python2 ~/Predator-Theme/Theme/banners/articuno.py
+alias su='proot -0 -w ~ $PREFIX/bin/bash'
+alias anon='history -c && history -w'

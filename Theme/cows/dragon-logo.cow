@@ -1,0 +1,47 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+
+                                   -.                                 
+                  `-:+ossys/-`   -smo   `-/oyyso+/-`                  
+              -+ydmmhs+:-``:   -dmmd- `-     .:+shmmdyo:`             
+           :smmmh+//o:     o`/osy:oyyhms.-+     .o+/+ymmmy/`          
+        `+dmmh+/sdmm+      o:dhmmosymdhhyd/  `   -mmmy++ymmmo.        
+       /dmmy+ommmmms      `ddo.dmysyyosdmyyhd:    +mmmmmy+smmmo`      
+     `ymmh+ymmmmmmm`      ydhmdmmmsyhmd+smyh:      hmmmmmmh+ymmh.     
+    `hmmoommmmmmmms    `/ydyo/odms. `ymm/hmsmh+    /mmmmmmmmy+mmd-    
+   `hmm+dmmmmmmmmmo    -yh-  `o:ms.  /ddsymsh`     :mmmmmmmmmm+dmd.   
+   smmommmmmmmmmmms      ..   `:m`  `hdd+mms+/`    /mmmmmmmmmmmohmh`  
+  /mmommmmmmmmmmmmm.          .yd  /hdmshmso+`     hmmmmmmmmmmmmsdms  
+ `dmymmmmmmmmmmmmmmy/:`         -oddmhsddsh:      +mmmmmmmmmmmmmmsmm- 
+ /mddmmmmmmmmmmmmmmmhohddo+/++odmdhyymdyyh-`    `smmmmmmmmmmmmmmmmhms 
+ hmmmmmmmmsdmmmmmmmmmdo+ysyyymmhssddosddy:    .+hmmmmmmmmmmommmmmmmmm`
+`mmmmhmmmh.mmmh+mmysydmddh+dmhshmh::dhhys  :shdmdhssmmyommm/ommmhmmmm:
+.mmmm.mmm+-mmmo+hm::.``.`+mdyymm/ :msdshs/s+::/o/---mm+/mmm/:mmm-hmmm/
+-mmmy`dmm//dmm+d/m/     :ddhsmd.  hsdh+s:`         .moh/mmm:/mmm-+mmm+
+-mmmo:ymm+ysmm+d+d/     hmmomm:   syydd`           .m/m/mmd+/mmm::mmm+
+`mmm+oomm+m/mmsyys.    `mddomm     :/::             h+m/mm+d+mmh+:mmm:
+ dmmsy:mmsdodmh.`-      dddshm`        .`           -`-omm/m+mmoy/mmm.
+ ymmhs/mmyydomd         :mmm+m+    .os+omh.o.          smhsm+mm/dommm 
+ +mmmosymdsm+md          :ddd+d/`shhshhhyyhmh          sm+mhsmm/shmmy 
+ .mmmom+mm+m+md           `ommssy+/sdsoymm+mo          sm/myymsyommm/ 
+  dmmod/mm+m+dy             `/odysyys++ohyho           +m/msym/m+mmm. 
+  smmyy+hm/m+d+            -ohh/s+/::/++/-             -m/msym:m+mmd  
+  :mmdossm/o-m.           `sdhomy`                      d/ooyd/ysmmo  
+  `mmm/ysd  -+           `+hhomy                        -+  sd+symm:  
+   dmm/ysy  `           `smm+mm.                         `  +d+shmm.  
+   smm:-y+              .+hsdms                             -d.:hmd   
+   omm  y.              :hdomm:      +o+`                    d  hmh   
+   +mm  s                smomm:     .m/md-                   +` ymy   
+   /mh  .               `+momms     +o-mmm.                  `` oms   
+   /mo                   -oyhmm+      :m+//                     /ms   
+   +m:                    .yohmmh/-.-omh` `                     `my   
+   sd                       :yyhmmmmmhyh`                        yd   
+   h+                        `/oshhhohh                          -m`  
+  .h                              -od-.                           o/  
+  /.                                `+                             +  
+
+EOC

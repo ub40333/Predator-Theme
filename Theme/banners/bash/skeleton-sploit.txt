@@ -1,0 +1,3 @@
+bash ~/Predator-Theme/Theme/banners/skeleton-sploit.sh
+alias su='proot -0 -w ~ $PREFIX/bin/bash'
+alias anon='history -c && history -w'

@@ -1,0 +1,48 @@
+##
+## A mysterious turtle...
+##
+$the_cow = <<EOC;
+    $thoughts
+                                     
+
+                                                :yysso+:.                       /mMMNy`
+                                               oMMMm::yMs                      -MMMMMMm`
+                                              .NMMMMm`dN.                     -/MMMMMMMsoyd/
+                                              +MMMMNyhM/                      ooMMMMMMMMMMMN.
+                                             `hMMMMNNM+                       :yMMMMMMMMMMMMy
+                                            -hMMMMMMMN/`                      .yMd//hMMMMMMMM.
+                                          :ymhhMMMMMMMMh                     -dN+`  /MMMMMMms`
+                                         .mM/ `shNMMMMh.                     .ymo.`:yMMMMMM:
+                                          .yd/ `.mMMMN-                        .+hhNMMMMMMM:
+                                            -oysmMMMM+                           `hMMMMMMMM/
+                                             /MMMMMMN.                           +MMMMMMMMM-
+                                             oMMMMMMMd                           omMMMMMMMy`
+                                             -MMMNdMMMMmy                       :MMMMMMs`
+                                             -MMMs`-yNMMMd:                      dMMMMs`
+                                             .MMM:   .+hNMMy`                    +MMMd`
+                                              NMN`      .dMN`                    :MMMm
+                                              NMh       `MMd                     -MMMM`
+                                             `NMy       `NMh                     .MMMd
+                                              dMd        yMs                      hMMm
+                                              -NN        -M+                      -MmM/
+                                               /M:       sM+                       hmMs
+                                                mm/.     -No                       :M:
+                                                //::-     o+                       /My	  
+                ``           ```             `.``        `         ``            ```          ```            `..`          ..`	   
+              -ymNmhs/`:dNNNmh+.   .smNMNNNdhs/.   .odNMNMNmhs:`/dNMNmy+. `+dNNms:/+syhdmNNNMNNy.`-/shdNNMNNmy/`   -odNMNNNmy+.
+               `NMs-:+yNMMMs.-/smMy./NMs-...-/oyMN/-hMdo-```.:ohNNMN/.-/smMymMd:.+NMMdyo+/:-....sMNNNmyo/:...-+dMm:/dMmo:```-/smMd-
+               sMm`    `NMh     .NMmMN:         mMNMd:          /MMy     .MMd:   :MMM/          .MMh.           +MMMd:         `oMM
+               .NM+     +MN.     sMMMd.         .MMMs`    `++    hMMh     yh:     dMMm.    :++osymMN/    `:/+.   +MMM.    `:`     NM
+               sMm`    .NMo     :MMMy`    :     /MMo     .hMy   :MMMo    .:     `+MMh.    /MMMMmmMm-     hMNs`  -MMMM-   .dy     :MM
+               .NM/     sdh`    `mMMs     om    `dMN     .mMNNo-.dMMN.         `:hMMy      ://oNMMM/     /y/.    oMMMh    hM/    `mMy
+               yMd              yMN+     omh    sMMN    `dMy:ymNNMMm/        `:hMMMN.          +MMd            ./dMMh`    .sds/--hMd
+               -MM:             +MM/      `     `NMMN    oMMyyhddNMs`        .dMNoMMo     ..-:/+hMM:         .+hmMMMMNs-`    `:ymMMh`
+               dMh     oyh`    +MMs             -MMMN    mMMdo++dMMy          oNNdMm`    -hdddmMMMd     `    .yNMMmsooydh+.     .sMm.
+               +MN.    /MMh    +MMm`   -/osyhs   .MMMN    yy:   `mMMd    o/     :mMM+     ``   `hMM/    :d/`    :NMm+`  `:os:     -MM:
+               mMy    `mMM/    NMM+   :NMhsmMd    yMMN          /MMm.   -NMs`    -NMy`         `sMM-   `mMMh:`   :dMMs`         `:mMy`
+               +sNNho/-sMNMmy+::mMMy/:+NN+  +MNo/:-:mMMh+:-...-/yNNMmo/--hMNMmo//+yNNMmo:-:+oyhdmNNMh+:-yMm+dNdo//+hMNNds/:----/odNm+`
+               +ohdddh:-+yddddy+ydddy:    :ohdddddh+shdmmmmmdy+.:ohdmmmh-:shddhs/.:sddddhys+/:--+yhdddy- `:ohddhs/.-+yddmmmmdho:`
+                ```      ```   ```         `````    `.....`      `..`     ``      ````           ```       ``       ``...``	   
+	   
+
+EOC
