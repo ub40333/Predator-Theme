@@ -140,7 +140,7 @@ xterm*|rxvt*)
     ;;
 esac
 
-new_line_before_prompt=yes
+new_line_before_prompt=no
 precmd() {
     # Print the previously configured title
     print -Pnr -- "$TERM_TITLE"
