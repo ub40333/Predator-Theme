@@ -39,7 +39,7 @@
 * _Si estás en Kali Nethunter Rootless antes usa lo siguiente; sino omitelo:_
 
 ```sh
-  echo "zsh" >> $HOME/.bashrc
+  echo "exec zsh" >> $HOME/.bashrc
 ```
 
 * _Debes clonarlo en tu HOME de usuario normal para funcionar_
