@@ -1,3 +1,0 @@
-bash $HOME/Predator-Theme/Theme/banners/demon-head.sh
-alias su='proot -0 -w ~ $PREFIX/bin/bash'
-alias anon='history -c && history -w'
