@@ -36,7 +36,7 @@
   sudo apt install neofetch -y (Si estás en Termux usa: pkg install -y neofetch)
 ```
 
-* _Si estás en Kali Nethunter Rootless antes usa lo siguiente; sino omitelo:_
+* _Si estás en Kali Nethunter Rootless antes usa como usuario normal lo siguiente; sino omitelo:_
 
 ```sh
   echo "exec zsh" >> $HOME/.bashrc
