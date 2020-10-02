@@ -1,3 +1,0 @@
-python2 /data/data/com.termux/files/home/Predator-Theme/Theme/banners/pikachu.py
-alias su='proot -0 -w ~ $PREFIX/bin/bash'
-alias anon='history -c && history -w'
