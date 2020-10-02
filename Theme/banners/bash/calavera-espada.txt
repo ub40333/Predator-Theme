@@ -1,3 +1,0 @@
-bash ~/Predator-Theme/Theme/banners/calavera-espada.sh
-alias su='proot -0 -w ~ $PREFIX/bin/bash'
-alias anon='history -c && history -w'
