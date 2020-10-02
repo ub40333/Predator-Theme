@@ -1,0 +1,36 @@
+##
+## A lovers' empbrace
+##
+$the_cow = <<EOC;
+     $thoughts
+      $thoughts
+                                                                                                                
+                                     ```...---::://++o++//:-.`                                                  
+                                                      `.-:/+syhddhs+:`                                          
+                                                                 .:+sdmho.                                      
+                                                  ``..-::///+++oooooooosm-                                      
+                                    `.-::::////////::---....`````..-:/oso/                                      
+                                 ``..`                     `-/ossyyysoo+:o`        ```                          
+                                                     `:+++++:.`          `ho:`       `..-`                      
+                                                `:+++/.                   /MMMNNNNmhs/-` .::`                   
+                                            ./++/.                     `omMh+:....-:+ymMmss.//:                 
+                                         -:/:`                        -NMy`            `-+ymmmoo.               
+                                       `.                            `NM+                   `oMMN/              
+                                                                     +Mh                      +hNM+             
+                                                                     yMo                         -yNy.          
+                                                                     sMd                           `            
+                                                                     .NMh`                                      
+                                                                      .dMm+`                                    
+                                                                        :yNMdyo++////::-.`                      
+                                                                           ./osyyyyyyhdmNMMNdyo:.               
+                                                                                         .:odds+syy+.           
+                                                                                             `+y/  -os/         
+                                                                                                -s/   -o/       
+ `ddo .hdy`   oddd+    :dd-     .dd/       odd`     /dd.  +ddd-  +dy   ddo  -dd/  sdh. -ddo       :s`   .+      
+ `MMy/NMs    -MMsMN.   /MM:     -MMo       yMM`     oMM.  sMNMN: sMd   MMy  -MM+   yMNoMMs         `y.    :     
+ `MMNMMy     dMd dMh   /MM:     -MMo       yMM`     oMM.  sMh+MM:sMd   MMy  -MM+    sMMM+            s.    `    
+ `MMd+MMo   +MMNmNMM+  /MM:     -MMo       yMM`     oMM.  sMd +MMdMd   NMd  /MM/   /MMdMm:            y`        
+ `MMy /MMy .NMd---dMN. /MMNNNN` -MMo       yMMNNNd  oMM.  sMd  /MMMd   :mMNNMNs   yMM/ +MMo           `+        
+ ..`  `..``..`   `..` `......   ..`       `......  `..   `.`   `...     `--.    `..`   `..`           /                                                                                  ``       																									   ``       
+Kali GNU/Linux Rolling \n \l
+EOC
