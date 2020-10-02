@@ -1,6 +1,0 @@
-clear
-setterm -foreground blue
-cat /data/data/com.termux/files/home/Predator-Theme/Theme/banners/detectivex.txt  
-echo
-alias su='proot -0 -w ~ $PREFIX/bin/bash'
-alias anon='history -c && history -w'
