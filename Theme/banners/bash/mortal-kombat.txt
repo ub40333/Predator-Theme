@@ -1,9 +1,0 @@
-clear
-setterm -foreground cyan
-cat /data/data/com.termux/files/home/Predator-Theme/Theme/banners/mortal-kombat.txt
-setterm -foreground red
-cat /data/data/com.termux/files/home/Predator-Theme/Theme/banners/logo-mortal.txt                                               
-setterm -foreground cyan                                                                                                               
-cat /data/data/com.termux/files/home/Predator-Theme/Theme/banners/logo-mortal-line.txt
-alias su='proot -0 -w ~ $PREFIX/bin/bash'
-alias anon='history -c && history -w'
