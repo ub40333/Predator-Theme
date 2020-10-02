@@ -69,7 +69,7 @@
 
 * _En esta Beta por el momento si instalas en Userland tendrás que ejecutar <b>exec zsh</b> para ver los cambios_
 
-<img src="https://user-images.githubusercontent.com/55555800/94959971-b52bb980-04b7-11eb-9e29-bcfd53306056.jpg" alt="PREVIEW" align="center" width="600px" height="200px">
+<img src="https://user-images.githubusercontent.com/55555800/94959971-b52bb980-04b7-11eb-9e29-bcfd53306056.jpg" alt="PREVIEW" align="center" width="600px" height="100px">
 ---
 
 <!-- MarkDown Links & Images -->
