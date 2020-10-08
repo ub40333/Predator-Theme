@@ -56,7 +56,7 @@
 ```sh
    bash install.sh
 ```
-* _Ejecuta lo siguiente para ver los cambios ;) :_
+* _Ejecuta lo siguiente para ver los cambios ;)  :_
 ```sh
    sudo chsh -s /usr/bin/zsh $USER
 ```
