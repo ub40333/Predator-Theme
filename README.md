@@ -55,7 +55,7 @@
 ```sh
     bash theme.sh
 ```
-* _Si estás en Kali Nethunter ejecuta los siguiente para ver los cambios:_
+* _Si estás en Kali Nethunter Rootless ejecuta lo siguiente para ver los cambios:_
 
 ```sh
     echo "exec zsh" >> /etc/bash.bashrc 
