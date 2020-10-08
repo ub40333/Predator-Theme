@@ -50,16 +50,16 @@
 ```sh
    bash install.sh
 ```
-* _Ejecuta lo siguiente para ver los cambios ;)  :_
-```sh
-   sudo chsh -s /usr/bin/zsh $USER
-```
-* _Finalmente ejecuta el script:_
+* _Ejecuta el script:_
 
 ```sh
     bash theme.sh
 ```
-<hr>
+* _Ejecuta lo siguiente para ver los cambios ;)  :_
+```sh
+   sudo chsh -s /usr/bin/zsh $USER
+```
+<hr></hr>
 
 # Aviso: 
 
