@@ -56,12 +56,10 @@
 ```sh
    bash install.sh
 ```
-* _Ejecuta <b>sudo chsh -s /usr/bin/zsh $USER</b> para ver los cambios_
-
-<img src="https://user-images.githubusercontent.com/55555800/94959971-b52bb980-04b7-11eb-9e29-bcfd53306056.jpg" alt="PREVIEW" align="center" width="300px" height="100px">
-
-
-
+* _Ejecuta lo siguiente para ver los cambios ;) :_
+```sh
+   sudo chsh -s /usr/bin/zsh $USER
+```
 * _Finalmente ejecuta el script:_
 
 ```sh
