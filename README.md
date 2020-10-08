@@ -55,7 +55,12 @@
 ```sh
     bash theme.sh
 ```
-* _Finalmente ejecuta lo siguiente y abre otra ventana para ver los cambios ;)  :_
+* _Si estás en Kali Nethunter ejecuta los siguiente para ver los cambios:_
+
+```sh
+    echo "exec zsh" >> /etc/bash.bashrc 
+```
+* _De lo contrario ejecuta lo siguiente y abre otra ventana para ver los cambios ;)  :_
 ```sh
    sudo chsh -s /usr/bin/zsh $USER
 ```
