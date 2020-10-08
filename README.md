@@ -55,7 +55,7 @@
 ```sh
     bash theme.sh
 ```
-* _Finalmente ejecuta lo siguiente para ver los cambios ;)  :_
+* _Finalmente ejecuta lo siguiente y abre otra ventana para ver los cambios ;)  :_
 ```sh
    sudo chsh -s /usr/bin/zsh $USER
 ```
