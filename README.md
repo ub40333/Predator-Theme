@@ -33,7 +33,8 @@
 * _Primero instala este paquete básico_
 
 ```sh
-  sudo apt install neofetch -y (Si estás en Termux usa: pkg install -y neofetch)
+  sudo apt install neofetch -y 
+  (Si estás en Termux usa: pkg install -y neofetch)
 ```
 
 * _Debes clonarlo en tu HOME de usuario normal para funcionar_
