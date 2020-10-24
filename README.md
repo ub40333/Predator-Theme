@@ -54,7 +54,7 @@
 * _Ejecuta el script:_
 
 ```sh
-    bash theme.sh
+    sudo bash theme.sh
 ```
 * _Si estás en Kali Nethunter Rootless ejecuta lo siguiente para ver los cambios:_
 
