@@ -60,7 +60,7 @@
 
 ```sh
     echo "exec zsh" >> /etc/bash.bashrc 
-
+```
 <hr></hr>
 
 # Aviso: 
