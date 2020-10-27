@@ -16,6 +16,7 @@
 * _Traductor integrado_
 * _Comandos extras integrados ;)_
 * _Si lo instalas en Termux tendrás teclas extras ;)_
+* _Soporte para Kali en Termux con proot-distro_
 
 
   
