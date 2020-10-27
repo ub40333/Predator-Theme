@@ -49,13 +49,13 @@
 ```
 * _Ejecuta el instalador:_
 ```sh
-   sudo bash install.sh
+   bash install.sh
    (Si usas KALI con proot-distro ejecuta: bash install-kali-proot.sh)
 ```
 * _Ejecuta el script:_
 
 ```sh
-    sudo bash theme.sh
+    bash theme.sh
 ```
 * _Si estás en Kali Nethunter Rootless ejecuta lo siguiente para ver los cambios:_
 
