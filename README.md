@@ -60,11 +60,7 @@
 
 ```sh
     echo "exec zsh" >> /etc/bash.bashrc 
-```
-* _De lo contrario ejecuta lo siguiente y abre otra ventana o reinicia tu PC para ver los cambios ;)  :_
-```sh
-   sudo chsh -s /usr/bin/zsh $USER
-```
+
 <hr></hr>
 
 # Aviso: 
