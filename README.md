@@ -49,7 +49,7 @@
 ```
 * _Ejecuta el instalador:_
 ```sh
-   bash install.sh
+   sudo bash install.sh
    (Si usas KALI con proot-distro ejecuta: bash install-kali-proot.sh)
 ```
 * _Ejecuta el script:_
